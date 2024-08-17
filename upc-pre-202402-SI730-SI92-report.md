@@ -692,9 +692,33 @@ Juan depende principalmente de un automóvil para moverse y enfrenta desafíos c
 
 ### 2.2.3 Análisis de entrevistas.
 
+**Segmento 1: Owner**
+
+De las entrevistas se obtuvo que el 66.66% de los participantes prefiere que los pagos se realicen a través de plataformas digitales. Asimismo, todos indican que gastan mas de 200 soles mensuales en transporte.
+Solo el 33.33% cuenta con experiencia en el alquiler de vehículos. Por último, todos los participantes consideran  importante el uso de casco y la implementación de un seguro para daños y desgaste.
+
+**Segmento 2: Cliente**
+
+De las entrevistas realizadas se obtuvo que el 100% de los participantes gasta más de 200 soles  mensuales en transporte. Asimismo, mencionaron que su mayor desafío son los tiempos de viaje largos y la congestión vehicular. El 100% muestra cierto interés en un servicio de alquiler de vehículos menores y el 66.66% estaría dispuesto a pagar por el servicio.
+
+
 ## 2.3. Needfinding
 
+En esta sección analizamos la información recopilada en las entrevistas realizadas a nuestros segmentos objetivos.
+
 ### 2.3.1. User Personas
+
+Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas.
+Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
+
+**Segmento 1 - Owner:**   
+![Imagen User Persona 1](../assets/uxpressia/userpersona1.png)
+
+**Segmento 2 - Client:**
+![Imagen User Persona 2](../assets/uxpressia/userpersona2.png)
+
+**Segmento 3 - Mechanic:**
+![Imagen User Persona 3](../assets/uxpressia/userpersona3.png)
 
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
