@@ -532,10 +532,163 @@ Nuestros segmentos objetivo del proyecto propuesto son dos, acontinuación los p
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+* Aprovecha la oportunidad de expandir nuestro servicio a otras áreas metropolitanas y turísticas, más allá de la ubicación actual de nuestros competidores. Esto nos permitirá alcanzar a una base de usuarios más amplia y capturar nuevos mercados.
+* Incluir a nuestro producto características como busqueda por zonas, notificaciones en tiempo real sobre disponibilidad de vehículos y opciones de pago seguras.
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
 
+#### Entrevistas segmento 01: Owner
+1. ¿Cual es tu nombre completo?
+2. ¿Cuántos años tienes? ¿En que distrito resides actualmente?
+3. ¿En que sector se desempeña laboralmente? ¿Que funciones realizas?
+4. ¿Para trabajar que dispositivo se le hace mas comodo? ¿Que marca es?
+5. ¿Que navegador web prefiere utilizar en su dia a dia y por qué?
+6. ¿Que medios informativos usa con mayor frecuencia? ¿Y de entretenimiento?
+7. ¿Hace cuantos años te dedicas a rentas sus vehiculos?
+8. ¿Que estrategia de marketing haces a las personas nuevas para que te alquilen tu vehiculo?
+9. ¿Como manejas las tarifas para tus vehiculos?
+10. ¿Cómo te gustaría que sean las tarifas de alquiler?
+11. ¿Manejas algún limite o reglas para las personas que te alquilan?
+12. ¿Como te contactas con tus clientes o personas quienes te alquilan?
+13. ¿Que haces cuando tu vehiculo se malogra?
+14. ¿Tienes un límite de tiempo o distancia para el alquiler?
+15. ¿Usualmente, que equipos electrónicos usas con mayor frecuencia?
+16. Según nuestro proyecto mensionado, ¿Que te parece la idea?
+17. ¿Usarías nuestra aplicación web?
+18. ¿Qué te parecería poder visualizar la identidad del cliente?
+19. ¿Qué te parecería poder visualizar el historial de rentas del cliente?
+20. ¿Qué medidas de seguridad deben tener en cuenta los usuarios al usar los vehículos?
+21. ¿Cuentas con algún tipo de seguro?
+22. ¿Te gustaría que ofrezcamos algún tipo de seguro?
+23. ¿Dónde te gustaría entregar tus vehículos?
+24. ¿Cuáles son tus expectativas en cuanto a la cantidad de reservas a través de la aplicación?
+25. ¿Con qué frecuencia te gustaría alquilar tus vehículos?
+26. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
+
+#### Entrevistas segmento 2: Client
+1. ¿Cual es tu nombre? ¿Cuántos años tienes? ¿Dónde vives actualmente? ¿A qué te dedicas?
+2. ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por que? ¿Que marca es?
+3. ¿Que navegador web prefiere utilizar en su dia a dia y por qué?
+4. ¿Que medios informativos usa con mayor frecuencia? ¿Y de entretenimiento?
+5. ¿Qué medios de transporte utilizas con mayor frecuencia?
+6. ¿Cuánto tiempo dedicas a desplazarte en el transporte diariamente?¿Qué tipo de transporte es?
+7. ¿Cuáles son los mayores desafíos que enfrentas con tu transporte actual?
+8. ¿Cuánto dinero aproximadamente gasta al mes en transporte convencional?¿Qué tan satisfecho estás con el servicio que este te ofrece?
+9. ¿Qué te parecería contar con un servicio de vehículos alternativos como las bicicletas o scooters?
+10. ¿Qué tipo de vehículos preferirías alquilar (bicicletas, scooters, patinetas eléctricas, etc.)?
+11. ¿Qué aspectos consideras más importantes al elegir un servicio de alquiler de vehículos?
+12. ¿Estarías dispuesto(a) a pagar una suscripción mensual por este servicio?
+13. ¿Qué te parece la idea de incluir el mantenimiento del vehículo en la suscripción?
+14. ¿Crees que este servicio podría ayudarte a reducir tus costos mensuales de transporte y el tiempo perdido en el tráfico?
+15. ¿Con qué frecuencia crees que utilizarías este servicio de alquiler de vehículos?
+16. ¿Qué tan importante es para ti la disponibilidad de vehículos en distintos puntos de la ciudad?
+17. ¿Hay alguna mejora o característica adicional que te gustaría ver en la aplicación en el futuro?
+
 ### 2.2.2 Registro de entrevistas.
+
+En esta sección se presentan las entrevistas realizadas a los segmentos objetivo.
+
+### Entrevistas segmento 1: Owners
+### Entrevista 1:
+
+* Nombres: 
+* Apellidos: 
+* Edad: 34
+* Distrito: Barranco
+* Enlace a la entrevista: 
+* Inicio de entrevista:
+* Duración de la entrevista: 
+
+  <img src="./assets/chapter-02/interviews/" alt="Nombrar"> 
+
+**Informe del resumen de la entrevista:**
+
+Entrevistado es un adulto de 34 años que vive en Barranco, actualmente trabaja en el sector empresarial, cumple la funcion de supervisor del area de logistica en tiendas metro. Sus sistemas operativos de preferencia son android en moviles y windows en ordenadores. El navegador que usa con mayor frecuencia es chrome, tiene preferencia por la marca samsung y lenovo. Sus canales informativos favoritos son television y facebook. Asimismo, para entretenimiento usa tiktok e instagram. El cuenta actualmente con un vehículo motorizado y una bicicleta, a el le gustaria alquilar vehiculos menores tomando en cuenta el precio de los vehículos y le gustaría cobrar por hora, el no cuenta con una experiencia previa pero le gustaría entrar en este sector. El nos comenta que sería bueno que la aplicación cuente con un sistema de tarifas que se ofrezcan a los owners por sus vehículos y que cuente con un sector de análisis de mercado, en el cual se muestre cuales son los vehículos con más demanda para quizás, en un futuro, poder invertir. Además, nos comenta que sería bueno que se limite el rango de uso del vehículo, osea, que este dentro de un límite de distancia al sector donde se alquila. El también estaría de acuerdo con que la aplicación cubra los gastos de mantenimiento y que la aplicación pueda mostrar quien es el cliente y cuál es su historial. A él le gustaría que la aplicación sea intuitiva para el owner y el usuario para su fácil manejo.
+
+### Entrevista 2:
+
+* Nombres: David
+* Apellidos: Beltran Burgos
+* Edad: 23
+* Distito: San Borja
+* Enlace a la entrevista: 
+* Inicio de entrevista: 11:24
+* Duración de la entrevista: 05:51
+
+  <img src="./assets/chapter-02/interviews/" alt="Nombrar"> 
+
+**Informe del resumen de la entrevista:**
+
+David Beltrán un joven de 23 años, residente de San Borja. Actualmente trabaja en el sector financiero, sus funciones las cumple en el departamento de cobranzas del BCP. Sus sitemas operativos de preferencia son IOS en moviles y windows en ordenadores. El navegador que usa con mayor frecuencia es chrome. Tiene preferencia por la marca Apple y lenovo. Su canal informativo favorito es Twitter y de entretenimiento instagram. Beltrán posee una bicicleta y un patinete eléctrico como vehículos menores y no tiene experiencia previa en el alquiler de estos. Considera que las tarifas de alquiler deberían depender del tiempo de uso de cada equipo y prefiere los pagos a través de transferencias bancarias o aplicativos móviles como YAPE o Plin. Sugiere que el límite de tiempo o distancia para el alquiler debería restringirse solo a Lima. En caso de daños durante el uso del vehículo, espera una compensación por parte de la empresa. Valora la posibilidad de visualizar la identidad y el historial de rentas de los clientes. Recomienda medidas de seguridad como el uso de casco y respetar las normas de tránsito. No tiene seguro vehicular y estaría interesado en que se le ofrezca uno. Prefiere entregar los vehículos en módulos con supervisión. Inicialmente, espera pocas reservas, pero prevé un aumento con el tiempo. Le gustaría alquilar sus vehículos a diario y considera útil tener un historial de mantenimiento y la capacidad de limitar el uso de ciertas rutas en la aplicación. La entrevista concluyó con la posibilidad de requerir feedback en el futuro y agradecimientos mutuos.
+
+### Entrevista 3:
+
+* Nombres: 
+* Apellidos: 
+* Edad: 34
+* Distrito: San Borja
+* Enlace a la entrevista: 
+* Inicio de entrevista: 17:16
+* Duración de la entrevista: 09:12
+
+  <img src="./assets/chapter-02/interviews/" alt="Nombrar"> 
+
+**Informe del resumen de la entrevista:**
+
+, residente de San Borja. Actualmente trabaja en el sector de venta y poseedor de un scooter eléctrico. Sus sistemas operativos de preferencia son android para moviles y windows para ordenadores. Además, menciona que Google Chrome es el navegador que usa con mayor frecuencia. Eric menciona que su presupuesto para alquilar cada tipo de vehículo sería de 20 soles diarios. Tiene experiencia previa en el alquiler de vehículos por aplicaciones, incluyendo scooters y autos. Sugiere que las tarifas de alquiler de scooters podrían basarse en el tiempo recorrido por minuto. Prefiere medios de pago como billeteras electrónicas y pagos con tarjeta. Propone un límite de tiempo para el alquiler, con un máximo de 8 horas. En caso de daño durante el uso, espera un acuerdo que lo proteja como propietario del vehículo. Considera importante visualizar la identidad del cliente y recomienda medidas de seguridad como el uso de casco y luces. Está interesado en que la aplicación ofrezca un seguro para cubrir posibles daños y desgaste por el tiempo de uso. Prefiere entregar sus vehículos en su espacio laboral en San Borja. Estima que podría haber al menos 20 personas por día que alquilen su vehículo. Prefiere alquilar sus vehículos de lunes a viernes. Sugiere mejoras en la aplicación, como la incorporación de un botón de reporte de accidentes o averías. La entrevista concluyó con agradecimientos mutuos.
+
+---
+### Entrevistas segmento 2: Clientes
+### Entrevista 1:
+
+* Nombres: 
+* Apellidos: 
+* Edad: 21
+* Distrito: San Juan de Miraflores
+* Enlace a la entrevista: 
+* Inicio de entrevista: 26:28
+* Duración de la entrevista: 09:26
+
+  <img src="./assets/chapter-02/interviews/" alt="Nombrar"> 
+
+**Informe del resumen de la entrevista:**
+
+es un joven estudiante de 21 años, él vive en San Juan de Miraflores. Sus sistemas operativos de preferencia son android para móviles y windows para ordenadores. Además, menciona que Microsoft Edge es el navegador que usa con mayor frecuencia. Nos comenta que usa de manera interdiaria el servicio de transporte público, ya que, es indispensable para él ya que es la única manera de llegar a su centro académico. Lamentablemente, nos comenta que el uso de este transporte, por más que sea económico, es realmente incómodo, por los tiempos de viaje y la falta de buenos modales de conducción de los choferes de los buses. El nos comenta que estaría muy interesado en el alquiler de motos eléctricas  por medio de nuestra app, ya que, aunque sea un costo mayor al que lleva hoy en día, se le haría mucho más cómodo el movilizarse de manera diaria a su centro académico.
+
+### Entrevista 2:
+
+* Nombres:
+* Apellidos: 
+* Edad: 20
+* Distrito: Villa el Salvador
+* Enlace a la entrevista: 
+* Inicio de entrevista: 35:54
+* Duración de la entrevista: 10:31
+
+  <img src="./assets/chapter-02/interviews/" alt="Nombrar"> 
+
+**Informe del resumen de la entrevista:**
+
+Aldhair utiliza principalmente el transporte público y a veces una bicicleta para desplazarse. Sus sistemas operativos de preferencia son android para móviles y windows para ordenadores. Además, menciona que Google Chrome es el navegador que usa con mayor frecuencia. Dedica alrededor de 2 horas diarias al transporte público y enfrenta desafíos como la congestión del tráfico y la pérdida de tiempo. Gasta aproximadamente entre 200 y 300 soles al mes en transporte convencional y se siente neutral respecto a su satisfacción con este medio de transporte. Considera una buena idea contar con servicios de vehículos alternativos como bicicletas y scooters, prefiriendo el scooter por su practicidad pero la bicicleta por su seguridad. Valora aspectos como el precio y las condiciones del alquiler al elegir un servicio de vehículos. Estaría dispuesto a pagar una suscripción mensual que incluya el uso de bicicletas y scooters. Cree que este servicio podría ayudar a reducir sus costos mensuales de transporte y lo utilizará diariamente si estuviera disponible en varios distritos. Considera importante la disponibilidad de vehículos en distintos puntos de la ciudad. Sugiere que la aplicación sea intuitiva y que los vehículos reciban mantenimiento constante para garantizar una experiencia óptima para los usuarios. La entrevista concluyó con agradecimientos mutuos.
+
+### Entrevista 3:
+
+* Nombres: Juan
+* Apellidos: 
+* Edad: 26
+* Distrito: Villa María del Triunfo
+* Enlace a la entrevista: 
+* Inicio de entrevista: 46:26
+* Duración de la entrevista: 5:20
+
+  <img src="./assets/chapter-02/interviews/" alt="Nombrar"> 
+
+**Informe del resumen de la entrevista:**
+
+Sebastián Flores entrevistó a Juan, residente de José Gálvez Villa, María del Triunfo, quien trabaja en el sector del transporte. Juan mencionó que usa principalmente una laptop como dispositivo de escritorio y esta cuenta con el sistema operativo de windows, también nos comentó que cuenta con un dispositivo móvil con sistema operativo android, y utiliza Google Chrome como navegador principal.
+Juan depende principalmente de un automóvil para moverse y enfrenta desafíos cotidianos como el tráfico y los accidentes. Mensualmente, destina entre 300 y 400 soles al transporte convencional y se muestra insatisfecho debido a la abrumadora cantidad de pasajeros en el transporte público. Juan cree que sería ideal contar con servicios de vehículos alternativos como bicicletas o scooters, y estaría dispuesto a pagar una suscripción mensual por este tipo de servicio. Considera que incluir el mantenimiento del vehículo en dicha suscripción sería beneficioso, ya que ayudaría a reducir sus costos mensuales y el tiempo perdido en el tráfico.
+
 
 ### 2.2.3 Análisis de entrevistas.
 
