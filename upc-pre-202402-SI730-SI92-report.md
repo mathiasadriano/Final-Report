@@ -6,7 +6,7 @@
 
 **Curso:** Aplicaciones Web
 
-**Sección:** SI92
+**Sección:** SI92 - .
 
 **Profesor:** Naldo Reupo-Musayon Gastulo
 
