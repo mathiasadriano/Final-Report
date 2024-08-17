@@ -711,16 +711,46 @@ En esta sección analizamos la información recopilada en las entrevistas realiz
 Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas.
 Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
-![Imagen User Persona 1](../assets/uxpressia/userpersona1.png)
+**Segmento 1 - Owner:**
+![Imagen User Persona 1](/assets/chapter-02/user-persona/userpersona1.png)
 
 **Segmento 2 - Client:**
-![Imagen User Persona 2](../assets/uxpressia/userpersona2.png)
-
-**Segmento 3 - Mechanic:**
-![Imagen User Persona 3](../assets/uxpressia/userpersona3.png)
+![Imagen User Persona 2](/assets/chapter-02/user-persona/userpersona2.png)
 
 ### 2.3.2. User Task Matrix
 
+En esta sección se presenta el user task matrix de los tres segmentos, con el fin de indentificar la frecuencia de las actividades realizadas por los usuarios, y de esta manera se
+refleja la importancia de determinadas tareas.
+
+
+| 	                                                                          |   **Owner**  	    |  **Owner**    	   |  **Client**    	  |  **Client**   	   |
+|----------------------------------------------------------------------------|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
+| **Task**                                                                 	 | **Frecuencia**  	 | **Importancia** 	 | **Frecuencia**  	 | **Importancia** 	 |
+| Pública servicio en redes                                            	     |  varias veces 	   |     alta    	     |     -       	     |     -      	      |
+| Realiza y recibe pagos mediante plataformas digitales                	     |  varias veces 	   |     alta    	     |  varicas veces 	  |     alta    	     | 
+| Buscar mecánico de confianza                                         	     |  varias veces 	   |     alta    	     |   rara vez   	    |    media    	     | 
+| Separar cita con mecánico                                            	     |  varias veces 	   |    media    	     |   rara vez   	    |    media    	     | 
+| Analizar costo y tiempo de mantenimiento                             	     |   rara vez   	    |    media    	     |   rara vez   	    |    media    	     | 
+| Comunicarse por whatsapp con la persona a la que ofreció el servicio 	     |  muchas veces 	   |     alta    	     |     -       	     |     -      	      |  
+| Búsqueda de servicio en redes                                        	     |     -      	      |     -      	      |   rara vez   	    |    media    	     |   
+| Salir mucho antes de casa para evitar el tráfico                     	     |  varias veces 	   |     alta    	     |  varias veces 	   |     alta    	     |
+| Llevar cuentas sobre gasto en pasajes en lo que va del mes           	     |    siempre   	    |     alta    	     |   siempre    	    |     alta    	     |
+| Llevar registro de recorrido en vehículo                             	     |   rara vez   	    |    media    	     |  varias veces 	   |    media    	     |
+
+
+En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento de usuarios:
+### Owner:
+* Comunicarse por WhatsApp con la persona a la que ofreció el servicio: Es muy frecuente y de alta importancia para coordinar detalles y mantener una comunicación fluida.
+* Llevar cuentas sobre gasto en pasajes: Es una tarea constante y de alta importancia para controlar sus gastos y optimizar sus recursos.
+
+### Client:
+* Llevar cuentas sobre gasto en pasajes: Es una tarea constante y de alta importancia para controlar sus gastos y optimizar sus recursos.
+* Salir mucho antes de casa para evitar el tráfico: Es frecuente y de alta importancia, ya que el tráfico puede afectar su tiempo y generar estrés.
+
+### Principales diferencias y coincidencias entre los User Personas:
+
+* Coincidencias: 
+* Diferencias: 
 
 
 ### 2.3.3. User Journey Mapping
