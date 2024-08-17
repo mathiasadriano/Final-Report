@@ -537,7 +537,7 @@ Nuestros segmentos objetivo del proyecto propuesto son dos, acontinuación los p
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
-
+Par el desarrollo de entrevista hemos propuestos las .....
 #### Entrevistas segmento 01: Owner
 1. ¿Cual es tu nombre completo?
 2. ¿Cuántos años tienes? ¿En que distrito resides actualmente?
