@@ -731,6 +731,7 @@ Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
 ## 3.2. User Stories
+Implementación de user 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
 
