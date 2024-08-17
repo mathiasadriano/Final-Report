@@ -755,7 +755,7 @@ En base al User Task Matrix presentado, podemos destacar las siguientes tareas c
 
 ### 2.3.3. User Journey Mapping
 
-En esta sección se presentan los User Journey Mapping de los tres segmentos, que realizamos con el fin de dar a entender
+En esta sección se presentan los User Journey Mapping de los segmentos, que realizamos con el fin de dar a entender
 cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
 
 **Segmento 1 - Owner:**   
@@ -765,7 +765,30 @@ cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que
 ![Imagen User Journey Mapping 2](/assets/chapter-02/user-journey-mapping/mapping2.jpg)
 
 ### 2.3.4. Empathy Mapping
+
+En esta sección mostramos los empathy mapping de los segmentos realizados con la información recopilada de componentes anteriores.
+
+**Segmento 1 - Owner:**
+
+![Empathy Map Segmento1](/assets/chapter-02/empathy-mapping/empathy1.png)
+
+**Segmento 2 - CLient:**
+
+![Empathy Map Segmento1](/assets/chapter-02/empathy-mapping/empathy2.png)
+
 ### 2.3.5. As-is Scenario Mapping
+
+En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia
+de ideas individual, revisión e identificación de fases como columnas,
+para conseguir los As-is Scenario Mapping de los tres segmentos.
+objetivos.
+
+**Segmento 1 - Owner**  
+![As-IS Scenario Mapping 1](/assets/chapter-02/scenario-mapping/scenario1.jpg)
+
+**Segmento 2 - Client**  
+![As-IS Scenario Mapping 1](/assets/chapter-02/scenario-mapping/scenario2.jpg)
+
 ## 2.4. Ubiquitous Language.
 
 ---
