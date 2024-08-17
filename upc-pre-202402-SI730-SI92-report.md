@@ -711,7 +711,6 @@ En esta sección analizamos la información recopilada en las entrevistas realiz
 Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas.
 Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 
-**Segmento 1 - Owner:**   
 ![Imagen User Persona 1](../assets/uxpressia/userpersona1.png)
 
 **Segmento 2 - Client:**
@@ -721,6 +720,9 @@ Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 ![Imagen User Persona 3](../assets/uxpressia/userpersona3.png)
 
 ### 2.3.2. User Task Matrix
+
+
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
