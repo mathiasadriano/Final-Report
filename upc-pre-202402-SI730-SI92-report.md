@@ -787,7 +787,7 @@ Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 ---
 
 # Conclusiones
-
+En conclusion, ya tenemos casi finalizado. 
 ## Conclusiones y Recomendaciones
 
 # Bibliografía
