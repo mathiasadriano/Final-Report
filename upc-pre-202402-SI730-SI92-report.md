@@ -763,7 +763,7 @@ Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
 ### 4.7.1. Class Diagrams
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
-### 4.8.1. Database Diagram
+### 4.8.1. Database Diagram.
 
 ---
 
